@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # Finance-Tracking-App
-=======
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -25,4 +23,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
->>>>>>> 5c2f7a6 (generate rails application, update readme)
